@@ -441,7 +441,7 @@ Update the to-do item that has ID = 1 and set its name to "feed fish":
 
 ```json
   {
-    "ID":1,
+    "id":1,
     "name":"feed fish",
     "isComplete":true
   }
@@ -868,7 +868,7 @@ Update the to-do item that has id = 1 and set its name to "feed fish":
 
 ```json
   {
-    "ID":1,
+    "id":1,
     "name":"feed fish",
     "isComplete":true
   }
